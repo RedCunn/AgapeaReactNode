@@ -1,0 +1,20 @@
+#show-more{
+    border: none;
+    text-decoration: underline;
+}
+
+.allsummary{
+    height: auto;
+    overflow:visible;
+}
+
+/* TuComponente.css */
+.star-icon {
+    cursor: pointer;
+    color: #607eff;
+  }
+  
+  .star-selected {
+    color: #ff0000 !important;
+  }
+  

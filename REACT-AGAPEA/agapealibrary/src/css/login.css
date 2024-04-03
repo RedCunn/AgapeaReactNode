@@ -1,0 +1,29 @@
+#imgLogin{
+    width: 60%;
+    height: auto;
+}
+
+.logoContainer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.imgLogo{
+    width: 250px;
+}
+
+.btn.btn-dark.btn-lg {
+    /* Estilos por defecto */
+    background-color: #343a40; /* Color de fondo oscuro por defecto */
+    color: #ffffff; /* Color de texto por defecto */
+    text-decoration: none; /* Quitamos la subrayado por defecto */
+    padding: 10px 20px; /* Ajusta el espaciado según tus necesidades */
+  
+    /* Estilos en hover */
+    transition: background-color 0.3s, color 0.3s; /* Transición suave */
+  }
+  
+  .btn.btn-dark.btn-lg:hover {
+    background-color: #615e5e; /* Color de fondo rojo en hover */
+    color: #ffffff; /* Color de texto (puedes cambiarlo si lo deseas) */
+  }

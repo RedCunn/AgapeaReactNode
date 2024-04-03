@@ -1,0 +1,28 @@
+{
+	"React Component Template": {
+		"prefix": "rctemplate",
+		"body": [
+			"import { } from 'react';",
+        	"",
+			"function $1() {",
+			"    //#region -------- STATES",
+			"    //#endregion",
+			"",
+			"    //#region --------- EFFECTS",
+			"    //#endregion",
+			"",
+			"    //#region -------- EVENT HANDLERS",
+			"    //#endregion",
+			"",
+			"    return (",
+			"        <>",
+			"        </>",
+			"    );",
+			"}",
+			"",
+			"export default $1;"
+		],
+		"description": "React Component Template"
+	}
+	
+}
